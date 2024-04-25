@@ -1,0 +1,9 @@
+{
+  "custodyApiUrl": "https://saturn-common.francecentral.cloudapp.azure.com/custody/",
+  "web3NodeUrl": "wss://cacib-saturn-test.francecentral.cloudapp.azure.com:9443/",
+  "soCashPaymentUrl--": "https://so-cash.github.io/e-banking/payment",
+  "soCashPaymentUrl": "http://localhost:3000/payment",
+  "walletAddress": "0x03efc0ac0b9277834888eacce33f0d87d76bbf64",
+  "walletPassword":"xxxxxxxx",
+  "beneficiaryIBAN": "FR383000112345EUR0000000481"
+}
